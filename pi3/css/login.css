@@ -19,6 +19,7 @@ body {
   padding: 30px;
   margin: auto;
   box-shadow: 1px 2px 13px 1px #555555;
+  border-radius: 5px;
 }
 .form-signin .checkbox {
   font-weight: 400;
